@@ -1,2 +1,3 @@
 # Python-OpenCV
-Basic of OpenCV library in python
+Basic's of OpenCV library in python
+For more information visit GeeksforGeeks
